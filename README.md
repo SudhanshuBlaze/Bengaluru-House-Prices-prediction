@@ -1,6 +1,6 @@
 # Bengaluru-House-Price-prediction
 
-## Using Pyhton's sci-kit learn library for training a model and predicting Bengaluru House prices. 
+## Using Python's sci-kit learn library for training a model and predicting Bengaluru House prices. 
 Which includes:
   Data pre-processing
   Data visualisation 
